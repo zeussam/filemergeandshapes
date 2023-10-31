@@ -10,4 +10,4 @@ def question2():
     ctx.rectangle(150, 100, 100, 240)
     ctx.set_source_rgb(1, 0, 0)
     ctx.fill()
-    surface.write_to_png("output_dir/rectangle.png")
+    surface.write_to_png("output/rectangle.png")
